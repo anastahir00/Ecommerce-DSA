@@ -1,0 +1,7 @@
+*.exe
+*.obj
+*.o
+*.user
+*.tmp
+*.log
+.DS_Store
